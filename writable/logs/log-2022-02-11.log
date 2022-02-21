@@ -1,0 +1,1119 @@
+CRITICAL - 2022-02-11 06:34:03 --> Call to undefined function App\controllers\ConfirmDelete()
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('24')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 06:35:19 --> Call to undefined function App\controllers\ConfirmDelete()
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('24')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 06:36:34 --> Call to undefined function App\controllers\ConfirmDelete()
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('24')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 06:37:05 --> syntax error, unexpected token "<", expecting "function" or "const"
+#0 C:\xampp\htdocs\code2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso/elimina...')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso/elimina...')
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-11 06:37:06 --> syntax error, unexpected token "<", expecting "function" or "const"
+#0 C:\xampp\htdocs\code2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso')
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-11 06:37:09 --> syntax error, unexpected token "<", expecting "function" or "const"
+#0 C:\xampp\htdocs\code2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso')
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-11 06:37:44 --> syntax error, unexpected token "<", expecting "function" or "const"
+#0 C:\xampp\htdocs\code2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso')
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-11 06:37:45 --> syntax error, unexpected token "<", expecting "function" or "const"
+#0 C:\xampp\htdocs\code2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso')
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-11 06:37:46 --> syntax error, unexpected token "<", expecting "function" or "const"
+#0 C:\xampp\htdocs\code2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso')
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-11 06:37:48 --> syntax error, unexpected token "<", expecting "function" or "const"
+#0 C:\xampp\htdocs\code2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso')
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-11 06:39:50 --> Call to undefined function App\controllers\ConfirmDelete()
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('19')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:03:08 --> syntax error, unexpected variable "$data"
+#0 C:\xampp\htdocs\code2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso')
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-11 07:03:36 --> syntax error, unexpected token "}"
+#0 C:\xampp\htdocs\code2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso')
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-11 07:03:37 --> syntax error, unexpected token "}"
+#0 C:\xampp\htdocs\code2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso/nuevo')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso/nuevo')
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-11 07:03:44 --> syntax error, unexpected token "}"
+#0 C:\xampp\htdocs\code2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso')
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-11 07:05:49 --> Class "App\controllers\CrudModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:06:10 --> Class "App\controllers\CrudModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:06:34 --> Class "App\controllers\CrudModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:07:44 --> Class "App\controllers\CrudModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:07:50 --> Class "App\controllers\CrudModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:09:12 --> Class "App\controllers\CrudModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:09:16 --> Class "App\controllers\CrudModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:09:40 --> Class "App\controllers\CrudModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:10:17 --> Class "App\controllers\CrudModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:10:22 --> Class "App\controllers\CrudModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:10:28 --> Class "App\controllers\CrudModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:10:32 --> Class "App\controllers\CrudModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:11:41 --> Class "App\controllers\CrudModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:11:43 --> Class "App\controllers\CrudModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:12:26 --> Class "App\controllers\CrudModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:13:29 --> Class "App\controllers\NuevoModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:14:11 --> Class "App\controllers\NuevoModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:24:02 --> Attempt to assign property "ingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:24:27 --> Class "App\controllers\NuevoModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:24:53 --> Attempt to assign property "ingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:25:00 --> Attempt to assign property "ingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:25:03 --> Attempt to assign property "ingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:25:27 --> Attempt to assign property "ingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:26:16 --> Attempt to assign property "ingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:26:22 --> Attempt to assign property "ingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:27:20 --> Attempt to assign property "ingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:27:21 --> Attempt to assign property "ingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:28:08 --> Class "App\controllers\NuevoModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:28:19 --> Attempt to assign property "ingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:28:27 --> Attempt to assign property "ingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:28:38 --> Attempt to assign property "ingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:28:41 --> Attempt to assign property "ingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:29:52 --> Attempt to assign property "ingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:29:53 --> Attempt to assign property "ingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:29:54 --> Attempt to assign property "ingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:30:05 --> Attempt to assign property "ingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:30:50 --> Attempt to assign property "datosingreso" on null
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-11 07:31:51 --> Undefined variable $Crud
+#0 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(61): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 61)
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-11 07:32:00 --> Undefined variable $This
+#0 C:\xampp\htdocs\code2\app\Models\CrudModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(61): App\models\CrudModel->insertar2(Array)
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 07:33:28 --> Undefined variable $This
+#0 C:\xampp\htdocs\code2\app\Models\CrudModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(61): App\models\CrudModel->insertar2(Array)
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 07:33:30 --> Undefined variable $This
+#0 C:\xampp\htdocs\code2\app\Models\CrudModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(61): App\models\CrudModel->insertar2(Array)
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 07:33:36 --> Undefined variable $This
+#0 C:\xampp\htdocs\code2\app\Models\CrudModel.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(61): App\models\CrudModel->insertar2(Array)
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 07:34:07 --> Undefined variable $datosingreso
+#0 C:\xampp\htdocs\code2\app\Models\CrudModel.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(61): App\models\CrudModel->insertar2(Array)
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 07:34:26 --> Undefined variable $datosingreso
+#0 C:\xampp\htdocs\code2\app\Models\CrudModel.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(61): App\models\CrudModel->insertar2(Array)
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 07:35:02 --> syntax error, unexpected token "$", expecting variable
+#0 C:\xampp\htdocs\code2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\code2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Crud...')
+#2 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(59): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Crud...')
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-11 07:35:16 --> Array to string conversion
+#0 C:\xampp\htdocs\code2\app\Models\CrudModel.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(61): App\models\CrudModel->insertar2(Array)
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 07:35:17 --> Array to string conversion
+#0 C:\xampp\htdocs\code2\app\Models\CrudModel.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(61): App\models\CrudModel->insertar2(Array)
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 07:36:41 --> Array to string conversion
+#0 C:\xampp\htdocs\code2\app\Models\CrudModel.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(62): App\models\CrudModel->insertar2(Array)
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 07:36:41 --> Array to string conversion
+#0 C:\xampp\htdocs\code2\app\Models\CrudModel.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(62): App\models\CrudModel->insertar2(Array)
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 07:36:42 --> Array to string conversion
+#0 C:\xampp\htdocs\code2\app\Models\CrudModel.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(62): App\models\CrudModel->insertar2(Array)
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 07:36:43 --> Array to string conversion
+#0 C:\xampp\htdocs\code2\app\Models\CrudModel.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(62): App\models\CrudModel->insertar2(Array)
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 07:36:43 --> Array to string conversion
+#0 C:\xampp\htdocs\code2\app\Models\CrudModel.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string...', 'C:\\xampp\\htdocs...', 12)
+#1 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(62): App\models\CrudModel->insertar2(Array)
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-11 07:41:21 --> Object of class App\models\CrudModel could not be converted to int
+#0 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(67): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class...', 'C:\\xampp\\htdocs...', 67)
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-11 07:45:12 --> Object of class App\models\CrudModel could not be converted to int
+#0 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(67): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class...', 'C:\\xampp\\htdocs...', 67)
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-11 07:46:08 --> Object of class App\models\CrudModel could not be converted to int
+#0 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-11 07:53:55 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:54:54 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:54:56 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:54:56 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:55:01 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:55:34 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:55:40 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:58:09 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:58:10 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:58:10 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:58:11 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:58:12 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:58:12 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:58:12 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:58:12 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:58:13 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:58:13 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:58:13 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:58:14 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:58:14 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 07:58:14 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:32 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:33 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:33 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:33 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:34 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:34 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:35 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:35 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:35 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:36 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:36 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:36 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:36 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:36 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:37 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:37 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:37 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:02:37 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:03:22 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:03:22 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:03:23 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:03:23 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:03:23 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:03:23 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:03:24 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:03:24 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:04:05 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:04:06 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:04:06 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:04:07 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:04:07 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:04:07 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:04:08 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:04:08 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:04:08 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:04:08 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:04:08 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:04:09 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-11 08:29:38 --> Call to undefined function App\controllers\ConfirmDelete()
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('45')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

@@ -1,0 +1,648 @@
+CRITICAL - 2022-01-14 07:01:44 --> Invalid file: table.php
+#0 C:\xampp\htdocs\codeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('table.php')
+#1 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('table', Array, true)
+#2 C:\xampp\htdocs\codeigniter4\app\Controllers\Home.php(10): view('table')
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-14 07:01:46 --> Invalid file: table.php
+#0 C:\xampp\htdocs\codeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('table.php')
+#1 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('table', Array, true)
+#2 C:\xampp\htdocs\codeigniter4\app\Controllers\Home.php(10): view('table')
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-14 07:01:46 --> Invalid file: table.php
+#0 C:\xampp\htdocs\codeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('table.php')
+#1 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('table', Array, true)
+#2 C:\xampp\htdocs\codeigniter4\app\Controllers\Home.php(10): view('table')
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-14 07:01:51 --> Invalid file: table.php
+#0 C:\xampp\htdocs\codeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('table.php')
+#1 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('table', Array, true)
+#2 C:\xampp\htdocs\codeigniter4\app\Controllers\Home.php(10): view('table')
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\Controllers\Home->index()
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-14 08:37:15 --> syntax error, unexpected token "=", expecting identifier or variable or "{" or "$"
+#0 C:\xampp\htdocs\codeigniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso')
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso')
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-14 08:38:10 --> Class "APP\Controllers\BaseController" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso')
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso')
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-14 08:38:10 --> Class "APP\Controllers\BaseController" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Router\Router.php(518): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso')
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso')
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-01-14 08:40:24 --> Call to undefined function App\controllers\IngresoModel()
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:40:25 --> Call to undefined function App\controllers\IngresoModel()
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:41:22 --> Class "App\models\Ingresomodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:41:23 --> Class "App\models\Ingresomodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:41:24 --> Class "App\models\Ingresomodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:41:35 --> Class "App\models\Ingresomodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:41:36 --> Class "App\models\Ingresomodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:41:36 --> Class "App\models\Ingresomodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:42:12 --> Class "App\models\Ingresomodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:44:17 --> Class "App\controllers\ingresopersonamodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:44:18 --> Class "App\controllers\ingresopersonamodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:44:30 --> Class "App\controllers\ingresopersonamodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:44:55 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\models\\ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\models\\ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 08:44:56 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\models\\ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\models\\ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 08:46:00 --> Cannot declare class App\controllers\Ingreso because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-14 08:46:02 --> Cannot declare class App\controllers\Ingreso because the name is already in use
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-14 08:50:19 --> Cannot use temporary expression in write context
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-14 08:51:08 --> Class "App\controllers\Ingresomodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:51:11 --> Class "App\controllers\Ingresomodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:51:11 --> Class "App\controllers\Ingresomodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:53:08 --> Class "App\controllers\Ingresomodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:53:08 --> Class "App\controllers\Ingresomodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:53:09 --> Class "App\controllers\Ingresomodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:54:45 --> Class "App\controllers\Ingresomodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:54:45 --> Class "App\controllers\Ingresomodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:54:46 --> Class "App\controllers\Ingresomodel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:57:35 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:57:36 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:57:36 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:57:37 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:57:37 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:57:37 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:57:37 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 08:57:37 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 09:01:16 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 09:01:17 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 09:01:17 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 09:01:18 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 09:01:19 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 09:01:28 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 09:02:46 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 09:02:46 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 09:02:47 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 09:04:12 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 4096 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-14 09:04:13 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 4096 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-14 09:04:16 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 4096 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-14 09:04:34 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 4096 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-14 09:04:35 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 4096 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-14 09:04:40 --> Allowed memory size of 536870912 bytes exhausted (tried to allocate 4096 bytes)
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-14 09:07:22 --> Could not check compatibility between App\Controllers\BaseController::initController(App\Controllers\RequestInterface $request, App\Controllers\ResponseInterface $response, App\Controllers\LoggerInterface $logger) and CodeIgniter\Controller::initController(CodeIgniter\HTTP\RequestInterface $request, CodeIgniter\HTTP\ResponseInterface $response, Psr\Log\LoggerInterface $logger), because class App\Controllers\RequestInterface is not available
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-14 09:07:23 --> Could not check compatibility between App\Controllers\BaseController::initController(App\Controllers\RequestInterface $request, App\Controllers\ResponseInterface $response, App\Controllers\LoggerInterface $logger) and CodeIgniter\Controller::initController(CodeIgniter\HTTP\RequestInterface $request, CodeIgniter\HTTP\ResponseInterface $response, Psr\Log\LoggerInterface $logger), because class App\Controllers\RequestInterface is not available
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-14 09:07:23 --> Could not check compatibility between App\Controllers\BaseController::initController(App\Controllers\RequestInterface $request, App\Controllers\ResponseInterface $response, App\Controllers\LoggerInterface $logger) and CodeIgniter\Controller::initController(CodeIgniter\HTTP\RequestInterface $request, CodeIgniter\HTTP\ResponseInterface $response, Psr\Log\LoggerInterface $logger), because class App\Controllers\RequestInterface is not available
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-14 09:07:37 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 09:07:38 --> Class "App\controllers\IngresoModel" not found
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-14 09:07:58 --> Could not check compatibility between App\Controllers\BaseController::initController(App\Controllers\RequestInterface $request, App\Controllers\ResponseInterface $response, App\Controllers\LoggerInterface $logger) and CodeIgniter\Controller::initController(CodeIgniter\HTTP\RequestInterface $request, CodeIgniter\HTTP\ResponseInterface $response, Psr\Log\LoggerInterface $logger), because class App\Controllers\RequestInterface is not available
+#0 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+#1 {main}
+CRITICAL - 2022-01-14 09:10:06 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:10:07 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:10:09 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:10:48 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:10:48 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:10:49 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:11:30 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:11:31 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:11:31 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:11:31 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:11:32 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:11:32 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:12:13 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:12:14 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:14:09 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:14:10 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:14:10 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:14:11 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:14:11 --> Class "app\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:16:26 --> Class "App\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:16:27 --> Class "App\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:16:27 --> Class "App\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:16:28 --> Class "App\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:16:29 --> Class "App\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:16:29 --> Class "App\models\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:17:00 --> Class "CodeGgniter\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:17:00 --> Class "CodeGgniter\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:17:01 --> Class "CodeGgniter\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}
+CRITICAL - 2022-01-14 09:17:01 --> Class "CodeGgniter\Model" not found
+#0 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(264): include_once()
+#1 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Ingr...')
+#3 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(16): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Ingr...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(802): App\controllers\Ingreso->__construct()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#7 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#8 {main}

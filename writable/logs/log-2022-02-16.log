@@ -1,0 +1,328 @@
+CRITICAL - 2022-02-16 07:10:36 --> Undefined variable $totalTime
+#0 C:\xampp\htdocs\code2\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\code2\system\Debug\Toolbar.php(501): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\Debug\Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\xampp\htdocs\code2\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\xampp\htdocs\code2\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-16 07:15:00 --> syntax error, unexpected token "}"
+#0 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#2 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(28): view('ingreso/ingreso', Array)
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-16 07:20:40 --> Object of class App\models\CrudModel could not be converted to int
+#0 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class...', 'C:\\xampp\\htdocs...', 69)
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-16 07:21:23 --> Object of class App\models\CrudModel could not be converted to int
+#0 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(69): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class...', 'C:\\xampp\\htdocs...', 69)
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-16 07:25:55 --> Call to undefined function App\controllers\int()
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-16 07:26:13 --> Object of class App\models\CrudModel could not be converted to int
+#0 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(68): CodeIgniter\Debug\Exceptions->errorHandler(8, 'Object of class...', 'C:\\xampp\\htdocs...', 68)
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-16 07:27:23 --> CodeIgniter\Database\BaseBuilder::insert(): Argument #1 ($set) must be of type ?array, App\models\CrudModel given, called in C:\xampp\htdocs\code2\app\Models\CrudModel.php on line 12
+#0 C:\xampp\htdocs\code2\app\Models\CrudModel.php(12): CodeIgniter\Database\BaseBuilder->insert(Object(App\models\CrudModel))
+#1 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(64): App\models\CrudModel->insertar2(Object(App\models\CrudModel))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#5 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#6 {main}
+CRITICAL - 2022-02-16 07:29:35 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\code2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso/inserta...')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso/inserta...')
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-16 07:29:51 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\code2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso/inserta...')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso/inserta...')
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-16 07:34:22 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\nuevo.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(42): view('ingreso/nuevo', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:35:15 --> syntax error, unexpected token "public", expecting end of file
+#0 C:\xampp\htdocs\code2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso/nuevo')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso/nuevo')
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-16 07:35:16 --> syntax error, unexpected token "public", expecting end of file
+#0 C:\xampp\htdocs\code2\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso/nuevo')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso/nuevo')
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-02-16 07:35:44 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\nuevo.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(42): view('ingreso/nuevo', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:36:06 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\nuevo.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(42): view('ingreso/nuevo', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:36:07 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\nuevo.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(42): view('ingreso/nuevo', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:36:08 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\nuevo.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(42): view('ingreso/nuevo', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:36:09 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\nuevo.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(42): view('ingreso/nuevo', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:36:31 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\nuevo.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(42): view('ingreso/nuevo', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:36:32 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\nuevo.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(42): view('ingreso/nuevo', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:36:36 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\nuevo.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(42): view('ingreso/nuevo', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:36:41 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\nuevo.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(42): view('ingreso/nuevo', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:36:42 --> Undefined variable $mensaje
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\nuevo.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(42): view('ingreso/nuevo', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:44:57 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\editar.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(93): view('ingreso/editar', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('assets', 'plugins', 'jquery-sparklin...', 'jquery.sparklin...')
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:44:57 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\editar.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(93): view('ingreso/editar', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('assets', 'images', 'users', 'avatar-1.jpg')
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:44:58 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\editar.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(93): view('ingreso/editar', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('assets', 'plugins', 'jquery-sparklin...', 'jquery.sparklin...')
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:52:12 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\editar.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(97): view('ingreso/editar', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('assets', 'plugins', 'jquery-sparklin...', 'jquery.sparklin...')
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:52:12 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\editar.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(97): view('ingreso/editar', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('assets', 'images', 'users', 'avatar-1.jpg')
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:52:22 --> Unmatched '}'
+#0 C:\xampp\htdocs\code2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\code2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Crud...')
+#2 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(37): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Crud...')
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-16 07:54:13 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\editar.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(97): view('ingreso/editar', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('assets', 'plugins', 'jquery-sparklin...', 'jquery.sparklin...')
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:54:13 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\editar.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(97): view('ingreso/editar', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('assets', 'images', 'users', 'avatar-1.jpg')
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:54:19 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\editar.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(97): view('ingreso/editar', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('assets', 'plugins', 'jquery-sparklin...', 'jquery.sparklin...')
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 07:54:19 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\editar.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(97): view('ingreso/editar', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('assets', 'images', 'users', 'avatar-1.jpg')
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-16 10:52:59 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\code2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\code2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-02-16 10:53:18 --> syntax error, unexpected token "}", expecting "," or ";"
+#0 C:\xampp\htdocs\code2\system\Autoloader\Autoloader.php(241): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs...')
+#1 C:\xampp\htdocs\code2\system\Autoloader\Autoloader.php(219): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers...')
+#2 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers...')
+#3 C:\xampp\htdocs\code2\system\CodeIgniter.php(790): class_exists('\\App\\Controller...', true)
+#4 C:\xampp\htdocs\code2\system\CodeIgniter.php(399): CodeIgniter\CodeIgniter->startController()
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

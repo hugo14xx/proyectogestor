@@ -1,0 +1,149 @@
+CRITICAL - 2022-01-24 08:35:01 --> Undefined variable $dato
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\editar.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 7)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(62): view('ingreso/editar', Array)
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('6')
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-24 08:38:59 --> Too few arguments to function App\controllers\Ingreso::actualizar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->actualizar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 08:40:21 --> Too few arguments to function App\controllers\Ingreso::actualizar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->actualizar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 08:41:52 --> Undefined variable $dato
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\editar.php(7): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 7)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(62): view('ingreso/editar', Array)
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('6')
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-24 08:44:11 --> Too few arguments to function App\controllers\Ingreso::actualizar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->actualizar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 08:44:43 --> Too few arguments to function App\controllers\Ingreso::actualizar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->actualizar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 08:45:05 --> Too few arguments to function App\controllers\Ingreso::actualizar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->actualizar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 08:45:12 --> Too few arguments to function App\controllers\Ingreso::actualizar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->actualizar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 08:46:47 --> Too few arguments to function App\controllers\Ingreso::actualizar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->actualizar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-24 08:51:27 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\eliminar.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/elimina...', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(92): view('ingreso/elimina...', Array)
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('1')
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-24 08:51:54 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\eliminar.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/elimina...', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(92): view('ingreso/elimina...', Array)
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('1')
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-01-24 08:54:59 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-01-24 08:54:59 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `persona...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `persona...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `persona...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `persona...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(298): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(865): CodeIgniter\Model->doUpdate(Array, Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#7 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(93): CodeIgniter\Model->update('7', Array)
+#8 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('7')
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2022-01-24 08:55:28 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+#0 C:\xampp\htdocs\codeigniter4\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#1 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(963): CodeIgniter\Model->doDelete('0', false)
+#2 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(93): CodeIgniter\BaseModel->delete('0')
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('0')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-24 08:55:56 --> syntax error, unexpected token "=", expecting "]"
+#0 C:\xampp\htdocs\codeigniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso/elimina...')
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso/elimina...')
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-24 08:55:59 --> syntax error, unexpected token "=", expecting "]"
+#0 C:\xampp\htdocs\codeigniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso')
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso')
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-24 08:56:08 --> CodeIgniter\BaseModel::delete(): Argument #2 ($purge) must be of type bool, array given, called in C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php on line 93
+#0 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(93): CodeIgniter\BaseModel->delete('0', Array)
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('0')
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-24 08:56:41 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+#0 C:\xampp\htdocs\codeigniter4\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#1 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(963): CodeIgniter\Model->doDelete('0', false)
+#2 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(93): CodeIgniter\BaseModel->delete('0')
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('0')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-24 08:56:46 --> Deletes are not allowed unless they contain a "where" or "like" clause.
+#0 C:\xampp\htdocs\codeigniter4\system\Model.php(359): CodeIgniter\Database\BaseBuilder->delete()
+#1 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(963): CodeIgniter\Model->doDelete('0', false)
+#2 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(93): CodeIgniter\BaseModel->delete('0')
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('0')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}

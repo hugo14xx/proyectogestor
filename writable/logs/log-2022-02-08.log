@@ -1,0 +1,202 @@
+CRITICAL - 2022-02-08 07:26:32 --> Class "App\controllers\validoModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\validacion->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 07:26:36 --> Class "App\controllers\validoModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\validacion->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 07:27:07 --> Class "App\Models\ValidacionModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\validacion->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 07:27:09 --> Class "App\Models\ValidacionModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\validacion->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 07:27:11 --> Class "App\Models\ValidacionModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\validacion->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 07:28:01 --> Class "App\Models\ValidacionModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\validacion->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 07:28:03 --> Class "App\Models\ValidacionModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\validacion->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 07:28:32 --> Class "App\Models\ValidacionModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\validacion->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 07:28:35 --> Class "App\Models\ValidacionModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\validacion->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 07:29:02 --> Class "App\Models\ValidacionModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\validacion->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 07:29:04 --> Class "App\Models\ValidacionModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\validacion->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 07:39:07 --> Class "App\controllers\JasonModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\jason->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 07:39:55 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\editar.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(62): view('ingreso/editar', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('assets', 'plugins', 'jquery-sparklin...', 'jquery.sparklin...')
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-08 07:39:55 --> Trying to access array offset on value of type null
+#0 C:\xampp\htdocs\code2\app\Views\ingreso\editar.php(10): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to acces...', 'C:\\xampp\\htdocs...', 10)
+#1 C:\xampp\htdocs\code2\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\code2\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\code2\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\code2\app\Controllers\Ingreso.php(62): view('ingreso/editar', Array)
+#5 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('assets', 'images', 'users', 'avatar-1.jpg')
+#6 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-02-08 07:41:59 --> Class "App\controllers\JasonModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\jason->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 07:46:07 --> Class "App\controllers\JasonModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\jason->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 07:56:07 --> Class "App\controllers\JasonModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\jason->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 07:56:26 --> Class "App\controllers\JasonModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\jason->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 07:56:31 --> Class "App\controllers\JasonModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\jason->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 07:57:06 --> Class "App\controllers\JasonModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\jason->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 08:00:15 --> Class "App\controllers\JasonModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\jason->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 08:00:35 --> Class "App\controllers\JasonModel" not found
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(802): App\controllers\jason->__construct()
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(403): CodeIgniter\CodeIgniter->createController()
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 12:23:27 --> Call to undefined function App\controllers\ConfirmDelete()
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('23')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 12:25:02 --> Call to undefined function App\controllers\ConfirmDelete()
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('23')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 12:25:03 --> Call to undefined function App\controllers\ConfirmDelete()
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('23')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 12:27:30 --> Call to undefined function App\controllers\ConfirmDelete()
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('19')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 12:28:00 --> Call to undefined function App\controllers\ConfirmDelete()
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('19')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 12:28:01 --> Call to undefined function App\controllers\ConfirmDelete()
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('19')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 12:28:03 --> Call to undefined function App\controllers\ConfirmDelete()
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('19')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 12:29:35 --> Call to undefined function App\controllers\ConfirmDelete()
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('19')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 12:29:43 --> Call to undefined function App\controllers\ConfirmDelete()
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('24')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-02-08 12:30:28 --> Call to undefined function App\controllers\ConfirmDelete()
+#0 C:\xampp\htdocs\code2\system\CodeIgniter.php(825): App\controllers\Ingreso->eliminar('19')
+#1 C:\xampp\htdocs\code2\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\code2\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\code2\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}

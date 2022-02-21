@@ -1,0 +1,1084 @@
+CRITICAL - 2022-01-18 06:45:43 --> Undefined variable $datos
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(41): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 41)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 06:46:38 --> Undefined variable $datos
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 06:47:40 --> Undefined variable $datos
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 43)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 06:48:23 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 06:48:38 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 06:48:39 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 06:48:40 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 06:48:42 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 06:48:42 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 06:48:49 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 06:48:55 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 06:49:36 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 06:49:50 --> Undefined variable $datos
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 06:49:51 --> Undefined variable $datos
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(34): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 34)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-01-18 07:12:07 --> Unknown column 'fecha_crea' in 'field list'
+CRITICAL - 2022-01-18 07:12:07 --> Unknown column 'fecha_crea' in 'field list'
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(48): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-01-18 07:14:31 --> Unknown column 'apellido' in 'field list'
+CRITICAL - 2022-01-18 07:14:31 --> Unknown column 'apellido' in 'field list'
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `persona...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `persona...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `persona...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `persona...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(298): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(865): CodeIgniter\Model->doUpdate(Array, Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#7 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(656): CodeIgniter\Model->update('a', Array)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(48): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-01-18 07:14:58 --> Unknown column 'fecha_edita' in 'field list'
+CRITICAL - 2022-01-18 07:14:58 --> Unknown column 'fecha_edita' in 'field list'
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `persona...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `persona...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `persona...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `persona...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(298): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(865): CodeIgniter\Model->doUpdate(Array, Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#7 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(656): CodeIgniter\Model->update('a', Array)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(48): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-01-18 07:15:29 --> Unknown column 'apellido' in 'field list'
+CRITICAL - 2022-01-18 07:15:29 --> Unknown column 'apellido' in 'field list'
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('UPDATE `persona...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('UPDATE `persona...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('UPDATE `persona...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1913): CodeIgniter\Database\BaseConnection->query('UPDATE `persona...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(298): CodeIgniter\Database\BaseBuilder->update()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(865): CodeIgniter\Model->doUpdate(Array, Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(651): CodeIgniter\BaseModel->update(Array, Array)
+#7 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(656): CodeIgniter\Model->update('a', Array)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(48): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-01-18 07:16:20 --> Unknown column 'fecha_crea' in 'field list'
+CRITICAL - 2022-01-18 07:16:20 --> Unknown column 'fecha_crea' in 'field list'
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(48): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-01-18 07:16:38 --> Undefined array key "apellido"
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\ingreso.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 37)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(25): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-01-18 07:17:18 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-01-18 07:17:18 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(48): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-01-18 07:17:45 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-01-18 07:17:45 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(48): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-01-18 07:36:11 --> Undefined array key "apellido"
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\ingreso.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array...', 'C:\\xampp\\htdocs...', 37)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(25): view('ingreso/ingreso', Array)
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+ERROR - 2022-01-18 07:36:41 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-01-18 07:36:41 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(49): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-01-18 07:37:10 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-01-18 07:37:10 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(49): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+ERROR - 2022-01-18 07:37:30 --> Duplicate entry '0' for key 'PRIMARY'
+CRITICAL - 2022-01-18 07:37:30 --> Duplicate entry '0' for key 'PRIMARY'
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(49): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-01-18 07:41:00 --> syntax error, unexpected token "=>", expecting ")"
+#0 C:\xampp\htdocs\codeigniter4\system\Router\Router.php(175): CodeIgniter\Router\Router->autoRoute('ingreso')
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(719): CodeIgniter\Router\Router->handle('ingreso')
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+ERROR - 2022-01-18 07:44:44 --> Unknown column 'fecha_crea' in 'field list'
+CRITICAL - 2022-01-18 07:44:44 --> Unknown column 'fecha_crea' in 'field list'
+#0 C:\xampp\htdocs\codeigniter4\system\Database\MySQLi\Connection.php(292): mysqli->query('INSERT INTO `pe...', 0)
+#1 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(670): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pe...')
+#2 C:\xampp\htdocs\codeigniter4\system\Database\BaseConnection.php(598): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pe...')
+#3 C:\xampp\htdocs\codeigniter4\system\Database\BaseBuilder.php(1771): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pe...', Array, false)
+#4 C:\xampp\htdocs\codeigniter4\system\Model.php(239): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(738): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\codeigniter4\system\Model.php(625): CodeIgniter\BaseModel->insert(Array, false)
+#7 C:\xampp\htdocs\codeigniter4\system\BaseModel.php(658): CodeIgniter\Model->insert(Array, false)
+#8 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(48): CodeIgniter\BaseModel->save(Array)
+#9 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->insertar()
+#10 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#11 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#13 {main}
+CRITICAL - 2022-01-18 07:55:23 --> Undefined constant "App\controllers\id"
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar(' a')
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 07:57:11 --> Undefined constant "App\controllers\id"
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar(' a')
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 07:58:11 --> Undefined constant "App\controllers\id"
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar(' a')
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 08:12:15 --> Undefined variable $id
+#0 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(56): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 56)
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar(' a')
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-18 08:18:59 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 08:20:21 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 08:21:39 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 08:21:46 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 08:25:48 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:15:52 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\editar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(61): view('ingreso/editar')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar(' hugo2')
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:16:03 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\editar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(61): view('ingreso/editar')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar(' hugo2')
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:16:04 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\editar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(61): view('ingreso/editar')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar(' hugo2')
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:17:18 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\editar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(61): view('ingreso/editar')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar(' hugo2')
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:18:50 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:19:36 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\editar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(61): view('ingreso/editar')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar(' hugo2')
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:19:41 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\editar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(61): view('ingreso/editar')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar(' hugo2')
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:19:52 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\editar.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(61): view('ingreso/editar')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar(' hugo2')
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:20:19 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:22:21 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:24:40 --> Undefined variable $totalTime
+#0 C:\xampp\htdocs\codeigniter4\system\Debug\Toolbar\Views\toolbar.tpl.php(40): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 40)
+#1 C:\xampp\htdocs\codeigniter4\system\Debug\Toolbar.php(501): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\Debug\Toolbar.php(464): CodeIgniter\Debug\Toolbar->format(Array, 'html')
+#3 C:\xampp\htdocs\codeigniter4\app\Config\Events.php(48): CodeIgniter\Debug\Toolbar->respond()
+#4 C:\xampp\htdocs\codeigniter4\system\Events\Events.php(149): CodeIgniter\Events\Events::Config\{closure}()
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(302): CodeIgniter\Events\Events::trigger('pre_system')
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-18 11:24:42 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(3): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 3)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:25:37 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:25:39 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:25:42 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:26:06 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:26:58 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:27:01 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:27:03 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(5): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 5)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:27:58 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:28:11 --> Undefined variable $titulo
+#0 C:\xampp\htdocs\codeigniter4\app\Views\ingreso\nuevo.php(9): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 9)
+#1 C:\xampp\htdocs\codeigniter4\system\View\View.php(210): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#3 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/nuevo', Array, true)
+#4 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(38): view('ingreso/nuevo')
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->nuevo()
+#6 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#7 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2022-01-18 11:31:14 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:33:41 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:41:25 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:41:34 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:41:37 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:48:10 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:48:24 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:49:00 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:50:10 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:50:16 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:50:19 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:51:05 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:51:36 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:51:38 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:52:35 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:53:52 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:56:32 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 11:56:34 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:00:14 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:01:24 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:03:47 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:03:49 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:03:57 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:04:16 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:05:24 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:05:47 --> Undefined variable $id
+#0 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 57)
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-18 12:05:51 --> Undefined variable $id
+#0 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 57)
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-18 12:06:07 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:07:43 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:07:44 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:07:44 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#2 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(25): view('ingreso/ingreso', Array)
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-18 12:07:50 --> syntax error, unexpected token "echo"
+#0 C:\xampp\htdocs\codeigniter4\system\View\View.php(213): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+#1 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/ingreso', Array, true)
+#2 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(25): view('ingreso/ingreso', Array)
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->index()
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-18 12:08:05 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:11:46 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:12:24 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:12:26 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:13:31 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:15:30 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:16:20 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:16:26 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:22:05 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:22:06 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:22:25 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:30:07 --> Undefined variable $id
+#0 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(57): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined varia...', 'C:\\xampp\\htdocs...', 57)
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#4 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-01-18 12:34:18 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:34:20 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:34:45 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:34:53 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:35:14 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:35:16 --> Invalid file: ingreso/editar.php
+#0 C:\xampp\htdocs\codeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ingreso/editar....')
+#1 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#2 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(62): view('ingreso/editar', Array)
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('               ...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-18 12:36:36 --> Invalid file: ingreso/editar.php
+#0 C:\xampp\htdocs\codeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ingreso/editar....')
+#1 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#2 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(62): view('ingreso/editar', Array)
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('               ...')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-18 12:36:38 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:36:55 --> Invalid file: ingreso/editar.php
+#0 C:\xampp\htdocs\codeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ingreso/editar....')
+#1 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#2 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(62): view('ingreso/editar', Array)
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('6')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-18 12:37:15 --> Invalid file: ingreso/editar.php
+#0 C:\xampp\htdocs\codeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ingreso/editar....')
+#1 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#2 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(62): view('ingreso/editar', Array)
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('6')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-18 12:37:45 --> Invalid file: ingreso/editar.php
+#0 C:\xampp\htdocs\codeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ingreso/editar....')
+#1 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#2 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(62): view('ingreso/editar', Array)
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('6')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-18 12:37:46 --> Invalid file: ingreso/editar.php
+#0 C:\xampp\htdocs\codeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ingreso/editar....')
+#1 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#2 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(62): view('ingreso/editar', Array)
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('6')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-18 12:37:48 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:38:06 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:38:07 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:38:08 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:38:09 --> Invalid file: ingreso/editar.php
+#0 C:\xampp\htdocs\codeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ingreso/editar....')
+#1 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#2 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(62): view('ingreso/editar', Array)
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('6')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-18 12:38:35 --> Invalid file: ingreso/editar.php
+#0 C:\xampp\htdocs\codeigniter4\system\View\View.php(198): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('ingreso/editar....')
+#1 C:\xampp\htdocs\codeigniter4\system\Common.php(1089): CodeIgniter\View\View->render('ingreso/editar', Array, true)
+#2 C:\xampp\htdocs\codeigniter4\app\Controllers\Ingreso.php(62): view('ingreso/editar', Array)
+#3 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar('6')
+#4 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#5 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#6 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#7 {main}
+CRITICAL - 2022-01-18 12:38:37 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:39:31 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:39:33 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:40:43 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:40:45 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
+CRITICAL - 2022-01-18 12:41:04 --> Too few arguments to function App\controllers\Ingreso::editar(), 0 passed in C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php on line 825 and exactly 1 expected
+#0 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(825): App\controllers\Ingreso->editar()
+#1 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(412): CodeIgniter\CodeIgniter->runController(Object(App\controllers\Ingreso))
+#2 C:\xampp\htdocs\codeigniter4\system\CodeIgniter.php(320): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#3 C:\xampp\htdocs\codeigniter4\public\index.php(37): CodeIgniter\CodeIgniter->run()
+#4 {main}
